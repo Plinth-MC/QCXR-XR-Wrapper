@@ -85,11 +85,11 @@ MonoBehaviour:
     translations: []
   - key: Legal Header
     exportedFromTable: Main
-    sourceString: "Welcome to HoloCraft!\n\nPlease read the following before you start."
+    sourceString: "Welcome to Plinth!\n\nPlease read the following before you start."
     translations: []
   - key: Copyright Notice
     exportedFromTable: Main
-    sourceString: "Privacy\n\nHoloCraft doesn't collect any data. Signing in is handled by Microsoft."
+    sourceString: "Privacy\n\nPlinth doesn't collect any data. Signing in is handled by Microsoft."
     translations: []
   - key: Agree Statement
     exportedFromTable: Main

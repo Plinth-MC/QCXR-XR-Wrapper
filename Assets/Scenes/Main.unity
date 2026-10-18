@@ -17200,7 +17200,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: HoloCraft
+  m_text: Plinth
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f35adae8958437040b0fbd16e87d120a, type: 2}
   m_sharedMaterial: {fileID: -3046671735200912922, guid: f35adae8958437040b0fbd16e87d120a,
@@ -19637,7 +19637,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "HoloCraft\n\nHoloCraft is an unofficial, free, open-source way to play Minecraft: Java Edition on Quest. It is not affiliated with or endorsed by Mojang, Microsoft, Meta, QuestCraft or Digital Genesis.\n\nYou need your own Minecraft: Java Edition account to play. Use of Minecraft is subject to the Minecraft EULA: https://www.minecraft.net/eula\n\nHoloCraft is provided as-is, with no warranty. Use it at your own risk.\n\nIt's built on QuestCraft, PojavLauncher, Visor and AtumVR, under the LGPLv3 and Apache 2.0 licenses. The source is on GitHub."
+  m_text: "Plinth\n\nPlinth is an unofficial, free, open-source way to play Minecraft: Java Edition on Quest. It is not affiliated with or endorsed by Mojang, Microsoft, Meta, QuestCraft or Digital Genesis.\n\nYou need your own Minecraft: Java Edition account to play. Use of Minecraft is subject to the Minecraft EULA: https://www.minecraft.net/eula\n\nPlinth is provided as-is, with no warranty. Use it at your own risk.\n\nIt's built on QuestCraft, PojavLauncher, Visor and AtumVR, under the LGPLv3 and Apache 2.0 licenses. The source is on GitHub."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f35adae8958437040b0fbd16e87d120a, type: 2}
   m_sharedMaterial: {fileID: -3046671735200912922, guid: f35adae8958437040b0fbd16e87d120a,
@@ -28946,7 +28946,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Welcome to HoloCraft!\n\nPlease read the following before you start."
+  m_text: "Welcome to Plinth!\n\nPlease read the following before you start."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f35adae8958437040b0fbd16e87d120a, type: 2}
   m_sharedMaterial: {fileID: -3046671735200912922, guid: f35adae8958437040b0fbd16e87d120a,
@@ -36318,7 +36318,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Privacy\n\nHoloCraft doesn't collect any data. Signing in is handled by Microsoft."
+  m_text: "Privacy\n\nPlinth doesn't collect any data. Signing in is handled by Microsoft."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f35adae8958437040b0fbd16e87d120a, type: 2}
   m_sharedMaterial: {fileID: -3046671735200912922, guid: f35adae8958437040b0fbd16e87d120a,

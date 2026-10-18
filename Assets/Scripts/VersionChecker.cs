@@ -17,7 +17,7 @@ public class VersionChecker : MonoBehaviour
     public async void Start()
     {
         currentVersion = Application.version;
-        version.text = "HoloCraft " + currentVersion;
+        version.text = "Plinth " + currentVersion;
 
         string apkPath = Application.dataPath;
         string visor = await Task.Run(() => ReadVisorVersion(apkPath));
