@@ -32,7 +32,7 @@ public static class QuestCraftVisorBuild
 
             PlayerSettings.Android.useCustomKeystore = false;
             PlayerSettings.SetApplicationIdentifier(BuildTargetGroup.Android, "com.holocraft.app");
-            PlayerSettings.productName = "HoloCraft";
+            PlayerSettings.productName = "Plinth";
             if (!string.IsNullOrEmpty(version))
             {
                 PlayerSettings.bundleVersion = version;
