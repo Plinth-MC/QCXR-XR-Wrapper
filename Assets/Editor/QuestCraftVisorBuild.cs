@@ -13,7 +13,7 @@ public static class QuestCraftVisorBuild
     public static void BuildAndroid()
     {
         var outputDirectory = Path.GetFullPath(Path.Combine(UnityEngine.Application.dataPath, "..", "..", "..", "outputs"));
-        var outputPath = Path.Combine(outputDirectory, "HoloCraft-1.20.1.apk");
+        var outputPath = Path.Combine(outputDirectory, "Plinth-1.20.1.apk");
         var scenes = EditorBuildSettings.scenes.Where(scene => scene.enabled).Select(scene => scene.path).ToArray();
         var useCustomKeystore = PlayerSettings.Android.useCustomKeystore;
         var applicationIdentifier = PlayerSettings.GetApplicationIdentifier(BuildTargetGroup.Android);
@@ -32,7 +32,7 @@ public static class QuestCraftVisorBuild
 
             PlayerSettings.Android.useCustomKeystore = false;
             PlayerSettings.SetApplicationIdentifier(BuildTargetGroup.Android, "com.holocraft.app");
-            PlayerSettings.productName = "HoloCraft";
+            PlayerSettings.productName = "Plinth";
             if (!string.IsNullOrEmpty(version))
             {
                 PlayerSettings.bundleVersion = version;
