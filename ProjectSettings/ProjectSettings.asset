@@ -169,7 +169,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Android: com.holocraft.app
+    Android: com.plinthmc.app
   buildNumber:
     Standalone: 0
     VisionOS: 0
