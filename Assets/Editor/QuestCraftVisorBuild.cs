@@ -31,7 +31,7 @@ public static class QuestCraftVisorBuild
             }
 
             PlayerSettings.Android.useCustomKeystore = false;
-            PlayerSettings.SetApplicationIdentifier(BuildTargetGroup.Android, "com.holocraft.app");
+            PlayerSettings.SetApplicationIdentifier(BuildTargetGroup.Android, "com.plinthmc.app");
             PlayerSettings.productName = "Plinth";
             if (!string.IsNullOrEmpty(version))
             {
